@@ -11,4 +11,4 @@ script:
 notifications:
   email:
     recipients:
-      - patel.nisar@husky.neu.edu
+      - patel.nisar@northeastern.edu
